@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 👋 Hi, I’m Abhishek Kushwaha<br>- 🌱 I’m currently learning- WEb Development<br>- 📫 How to reach me kushwahaabhi50888@gmail.com<br>- 💬 Ask me about MERN Web dev..<br>- ⚡ Fun fact: I am funny but it's not fact<br>
+- 👋 Hi, I’m Abhishek Kushwaha<br>- 🌱 I’m currently learning- Web Development<br>- 📫 How to reach me kushwahaabhi50888@gmail.com<br>- 💬 Ask me about MERN Web dev..<br>- ⚡ Fun fact: I am funny but it's not fact<br>
 
 
 ## 🌐 Socials:
